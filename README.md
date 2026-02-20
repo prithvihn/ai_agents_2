@@ -1,4 +1,3 @@
-# ai_agents
 # ai_agents_2
 
 A minimal AI agents starter repository demonstrating example usage of generative AI models in Python using different providers (Azure OpenAI + Google AI). This project is a fork of `gokul-1998/ai_agents` and contains example scripts for building AI-powered workflows and experiments.:contentReference[oaicite:2]{index=2}
